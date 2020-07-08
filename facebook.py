@@ -67,9 +67,9 @@ def welcome():
         +=========================================+
         |..........   Facebook Crack   ...........|
         +-----------------------------------------+
-        |            #Author: Ha3MrX              | 
+        |            #Author: Indohck             | 
         |	       Version 1.0                |
- 	|   https://www.youtube.com/c/HA-MRX      |
+ 	|  https://www.facebook.com/Cyber.hack72  |
         +=========================================+
         |..........  Facebook Cracker  ...........|
         +-----------------------------------------+\n\n
